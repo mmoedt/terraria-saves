@@ -1,0 +1,191 @@
+{
+  "ResetDefaultUIScale": false,
+  "SmartCursorToggle": true,
+  "MapEnabled": true,
+  "InvasionBarMode": 2,
+  "AutoSave": true,
+  "AutoPause": true,
+  "Language": "en-US",
+  "PlacementPreview": true,
+  "GoreVisualsAllowed": true,
+  "VolumeSound": 1.0,
+  "VolumeAmbient": 1.0,
+  "VolumeMusic": 0.566929162,
+  "UnlockMusicSwap": false,
+  "UseExperimentalFeatures": false,
+  "Fullscreen": true,
+  "WindowMaximized": false,
+  "WindowBorderless": true,
+  "DisplayWidth": 1920,
+  "DisplayHeight": 1200,
+  "GraphicsQuality": 0,
+  "BackgroundEnabled": true,
+  "FrameSkipMode": 2,
+  "LightingMode": 3,
+  "BackgroundParallax": 60,
+  "ShowItemText": true,
+  "LastLaunchedVersion": 226,
+  "ClientUUID": "a163c984-df20-4663-b5be-183623b43550",
+  "UseSmartCursorForCommonBlocks": false,
+  "UseSmartAxeAfterSmartPickaxe": false,
+  "DisableLeftShiftTrashCan": true,
+  "HighlightNewItems": true,
+  "HidePasswords": false,
+  "ReverseUpDownForArmorSetBonuses": false,
+  "MouseShowBuildingGrid": false,
+  "AllowUnfocusedInputOnGamepad": false,
+  "LockOnPriority": 2,
+  "InvisibleCursorForGamepad": true,
+  "GamepadDisableInstructionsDisplay": true,
+  "SettingsUnlock_WorldEvil": true,
+  "SettingsEnabled_MinersWobble": true,
+  "SettingBlockGamepadsEntirely": false,
+  "SettingsEnabled_OpaqueBoxBehindTooltips": true,
+  "SettingDontScaleMainMenuUp": false,
+  "SettingsEnabled_TilesSwayInWind": true,
+  "UseStormEffect": true,
+  "UseHeatDistortion": true,
+  "WaveQuality": 3,
+  "Support4K": true,
+  "MouseColor": {
+    "R": 255,
+    "G": 50,
+    "B": 95
+  },
+  "MouseBorderColor": {
+    "R": 94,
+    "G": 92,
+    "B": 228,
+    "A": 55
+  },
+  "QuickLaunch": false,
+  "Zoom": 1.0,
+  "UIScale": 1.0,
+  "MapScale": 1.0,
+  "ResourcePacks": [],
+  "FlashIconForEvents": "All",
+  "Display": "",
+  "DisplayScreen": "",
+  "ThrottleWhenInactive": true,
+  "DoorAutoOpeningMode": 2,
+  "WaterfallDrawLimit": 1000,
+  "FilterLimit": 16,
+  "FilterPriorityThreshold": "VeryLow",
+  "UseRazerRGB": true,
+  "UseCorsairRGB": true,
+  "UseLogitechRGB": true,
+  "RazerColorProfile": {
+    "Keyboard": {
+      "R": 1.0,
+      "G": 0.765,
+      "B": 0.568
+    },
+    "Mouse": {
+      "R": 1.0,
+      "G": 0.765,
+      "B": 0.568
+    },
+    "Keypad": {
+      "R": 1.0,
+      "G": 0.765,
+      "B": 0.568
+    },
+    "Mousepad": {
+      "R": 1.0,
+      "G": 0.765,
+      "B": 0.568
+    },
+    "Headset": {
+      "R": 1.0,
+      "G": 0.765,
+      "B": 0.568
+    },
+    "Generic": {
+      "R": 1.0,
+      "G": 0.765,
+      "B": 0.568
+    },
+    "Virtual": {
+      "R": 1.0,
+      "G": 0.765,
+      "B": 0.568
+    }
+  },
+  "CorsairColorProfile": {
+    "Keyboard": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Mouse": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Keypad": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Mousepad": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Headset": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Generic": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Virtual": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    }
+  },
+  "LogitechColorProfile": {
+    "Keyboard": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Mouse": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Keypad": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Mousepad": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Headset": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Generic": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Virtual": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    }
+  },
+  "RGBUpdatesPerSecond": 45.0,
+  "MinimapFrame": "Default",
+  "PlayerResourcesSet": "Default"
+}
