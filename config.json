@@ -27,7 +27,7 @@
   "LightingMode": 3,
   "BackgroundParallax": 60,
   "ShowItemText": true,
-  "LastLaunchedVersion": 230,
+  "LastLaunchedVersion": 234,
   "ClientUUID": "a163c984-df20-4663-b5be-183623b43550",
   "UseSmartCursorForCommonBlocks": false,
   "UseSmartAxeAfterSmartPickaxe": false,
@@ -71,13 +71,13 @@
   "DisplayScreen": "",
   "ThrottleWhenInactive": true,
   "DoorAutoOpeningMode": 2,
+  "HoverControlMode": 0,
   "WaterfallDrawLimit": 1000,
   "DisableIntenseVisualEffects": false,
   "FilterLimit": 16,
   "FilterPriorityThreshold": "VeryLow",
+  "RGBUpdatesPerSecond": 45.0,
   "UseRazerRGB": true,
-  "UseCorsairRGB": true,
-  "UseLogitechRGB": true,
   "RazerColorProfile": {
     "Keyboard": {
       "R": 1.0,
@@ -115,6 +115,7 @@
       "B": 0.568
     }
   },
+  "UseCorsairRGB": true,
   "CorsairColorProfile": {
     "Keyboard": {
       "R": 1.0,
@@ -152,6 +153,7 @@
       "B": 1.0
     }
   },
+  "UseLogitechRGB": true,
   "LogitechColorProfile": {
     "Keyboard": {
       "R": 1.0,
@@ -189,7 +191,44 @@
       "B": 1.0
     }
   },
-  "RGBUpdatesPerSecond": 45.0,
+  "UseSteelSeriesRGB": true,
+  "SteelSeriesColorProfile": {
+    "Keyboard": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Mouse": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Keypad": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Mousepad": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Headset": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Generic": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    },
+    "Virtual": {
+      "R": 1.0,
+      "G": 1.0,
+      "B": 1.0
+    }
+  },
   "MinimapFrame": "Default",
   "PlayerResourcesSet": "Default"
 }
