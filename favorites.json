@@ -82,7 +82,8 @@
     "_162baria.wld": true,
     "_161aria.wld": true,
     "_160aria.wld": true,
-    "_159aria.wld": true
+    "_159aria.wld": true,
+    "ZugAria.wld": false
   },
   "Player": {
     "Melvin.plr": true,
@@ -92,6 +93,7 @@
     "_162man.plr": true,
     "_161min.plr": true,
     "_160.plr": true,
-    "_159.plr": true
+    "_159.plr": true,
+    "Zug.plr": true
   }
 }
