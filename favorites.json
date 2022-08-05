@@ -87,7 +87,10 @@
     "_109aria.wld": false,
     "_108nc.wld": false,
     "_107nc2.wld": false,
-    "_106aria.wld": false
+    "_106aria.wld": false,
+    "_105aria.wld": false,
+    "_104aria.wld": false,
+    "The_Rotten_Isle_of_Spirits.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -98,6 +101,7 @@
     "_161min.plr": false,
     "_160.plr": false,
     "_159.plr": false,
-    "Zug.plr": true
+    "Zug.plr": true,
+    "_103medEx.plr": false
   }
 }
