@@ -6,5 +6,5 @@ while true; do
   git commit -am "auto-snapshot ${DSTAMP}" &&
       echo "## Got it!  Snapshot saved" ||
           echo "# done"
-  sleep 1
+  sleep 10
 done
