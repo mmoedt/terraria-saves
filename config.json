@@ -4,7 +4,7 @@
   "MapEnabled": true,
   "InvasionBarMode": 2,
   "AutoSave": true,
-  "AutoPause": true,
+  "AutoPause": false,
   "Language": "en-US",
   "PlacementPreview": true,
   "GoreVisualsAllowed": true,
