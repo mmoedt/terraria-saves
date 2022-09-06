@@ -98,7 +98,7 @@
     "Pugaria.wld": true,
     "Yaeria.wld": true,
     "str8aria.wld": true,
-    "drunk9aria.wld": false
+    "drunk9aria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
