@@ -14,7 +14,7 @@
   "VolumeSound": 0.496063,
   "VolumeAmbient": 0.236220479,
   "VolumeMusic": 0.314960629,
-  "UnlockMusicSwap": false,
+  "UnlockMusicSwap": true,
   "UseExperimentalFeatures": false,
   "Fullscreen": true,
   "WindowMaximized": false,
