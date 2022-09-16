@@ -100,7 +100,8 @@
     "str8aria.wld": true,
     "drunk9aria.wld": true,
     "yaeDraria.wld": true,
-    "drunk8aria.wld": true
+    "drunk8aria.wld": true,
+    "beeAria5.wld": false
   },
   "Player": {
     "Melvin.plr": false,
