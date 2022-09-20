@@ -103,7 +103,8 @@
     "drunk8aria.wld": true,
     "beeAria5.wld": true,
     "Prakaria.wld": false,
-    "alaria1.wld": true
+    "alaria1.wld": true,
+    "_spd9aria.wld": false
   },
   "Player": {
     "Melvin.plr": false,
