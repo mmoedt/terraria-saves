@@ -104,7 +104,7 @@
     "beeAria5.wld": true,
     "Prakaria.wld": false,
     "alaria1.wld": true,
-    "_spd9aria.wld": false
+    "_spd9aria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
