@@ -106,7 +106,8 @@
     "alaria1.wld": true,
     "_spd9aria.wld": true,
     "thirty9aria.wld": true,
-    "_spd8aria.wld": true
+    "_spd8aria.wld": true,
+    "_boi9aria.wld": false
   },
   "Player": {
     "Melvin.plr": false,
