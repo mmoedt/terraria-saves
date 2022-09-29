@@ -109,7 +109,8 @@
     "_spd8aria.wld": true,
     "_boi9aria.wld": false,
     "_boi9aria2.wld": true,
-    "speedy7aria.wld": true
+    "speedy7aria.wld": true,
+    "var4aria.wld": false
   },
   "Player": {
     "Melvin.plr": false,
