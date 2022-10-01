@@ -48,7 +48,7 @@
   "SettingsEnabled_OpaqueBoxBehindTooltips": true,
   "SettingDontScaleMainMenuUp": false,
   "SettingsEnabled_TilesSwayInWind": true,
-  "SettingsEnabled_AutoReuseAllItems": false,
+  "SettingsEnabled_AutoReuseAllItems": true,
   "UseStormEffect": true,
   "UseHeatDistortion": true,
   "WaveQuality": 3,
