@@ -141,7 +141,12 @@
     "zz13yoyaria.wld": false,
     "zz14aria.wld": false,
     "zz16aria.wld": false,
-    "zz17m.wld": false
+    "zz17m.wld": false,
+    "zz18aria.wld": false,
+    "_0fd.wld": true,
+    "__0fd.wld": true,
+    "zz18xaria.wld": false,
+    "zz21aria.wld": false
   },
   "Player": {
     "Melvin.plr": false,
