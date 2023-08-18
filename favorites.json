@@ -148,7 +148,8 @@
     "zz18xaria.wld": true,
     "zz21aria.wld": true,
     "zz18bare1.wld": false,
-    "Collectaria.wld": true
+    "Collectaria.wld": true,
+    "MasterCollectaria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
