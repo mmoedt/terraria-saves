@@ -150,7 +150,8 @@
     "zz18bare1.wld": false,
     "Collectaria.wld": true,
     "MasterCollectaria.wld": true,
-    "Cloudy_Underwood_of_Stonks.wld": true
+    "Cloudy_Underwood_of_Stonks.wld": true,
+    "Jayaria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -184,6 +185,7 @@
     "_0ff.plr": false,
     "_0fe.plr": false,
     "ZeeCollector.plr": true,
-    "ZeeCollector2.plr": true
+    "ZeeCollector2.plr": true,
+    "Jay.plr": true
   }
 }
