@@ -152,7 +152,9 @@
     "MasterCollectaria.wld": true,
     "Cloudy_Underwood_of_Stonks.wld": true,
     "Jayaria.wld": true,
-    "Wanderaria.wld": true
+    "Wanderaria.wld": true,
+    "_0fdaria.wld": true,
+    "hcExp02aria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -188,6 +190,8 @@
     "ZeeCollector.plr": true,
     "ZeeCollector2.plr": true,
     "Jay.plr": true,
-    "Wanderer.plr": true
+    "Wanderer.plr": true,
+    "_0fd.plr": true,
+    "hcExp02.plr": true
   }
 }
