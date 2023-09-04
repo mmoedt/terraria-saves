@@ -154,7 +154,9 @@
     "Jayaria.wld": true,
     "Wanderaria.wld": true,
     "_0fdaria.wld": true,
-    "hcExp02aria.wld": true
+    "hcExp02aria.wld": true,
+    "_0duke2aria.wld": false,
+    "duke3aria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -192,6 +194,8 @@
     "Jay.plr": true,
     "Wanderer.plr": true,
     "_0fd.plr": true,
-    "hcExp02.plr": true
+    "hcExp02.plr": false,
+    "_0duke2.plr": false,
+    "duke3.plr": true
   }
 }
