@@ -156,7 +156,9 @@
     "_0fdaria.wld": true,
     "hcExp02aria.wld": true,
     "_0duke2aria.wld": false,
-    "duke3aria.wld": true
+    "duke3aria.wld": true,
+    "20230908aria.wld": false,
+    "20230911aria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -196,6 +198,8 @@
     "_0fd.plr": true,
     "hcExp02.plr": false,
     "_0duke2.plr": false,
-    "duke3.plr": true
+    "duke3.plr": true,
+    "20230908.plr": false,
+    "20230911.plr": true
   }
 }
