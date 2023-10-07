@@ -16,6 +16,7 @@
   "VolumeMusic": 0.125984251,
   "UnlockMusicSwap": true,
   "UseExperimentalFeatures": false,
+  "KeyFavoriteModifier": "LeftAlt",
   "Fullscreen": true,
   "WindowMaximized": false,
   "WindowBorderless": true,
@@ -27,7 +28,7 @@
   "LightingMode": 3,
   "BackgroundParallax": 60,
   "ShowItemText": true,
-  "LastLaunchedVersion": 269,
+  "LastLaunchedVersion": 279,
   "ClientUUID": "a163c984-df20-4663-b5be-183623b43550",
   "UseSmartCursorForCommonBlocks": false,
   "UseSmartAxeAfterSmartPickaxe": false,
@@ -68,7 +69,6 @@
   "Zoom": 1.0,
   "UIScale": 1.64,
   "MapScale": 1.0,
-  "ResourcePacks": [],
   "FlashIconForEvents": "All",
   "Display": "",
   "DisplayScreen": "",
@@ -77,11 +77,9 @@
   "HoverControlMode": 0,
   "WaterfallDrawLimit": 1000,
   "DisableIntenseVisualEffects": false,
-  "PlayerResourcesSet": "Default",
   "MinimapFrame": "Default",
   "ShowBossBarHealthText": true,
-  "FilterLimit": 16,
-  "FilterPriorityThreshold": "VeryLow",
+  "PlayerResourcesSet": "Default",
   "RGBUpdatesPerSecond": 45.0,
   "UseRazerRGB": true,
   "RazerColorProfile": {
@@ -234,5 +232,8 @@
       "G": 1.0,
       "B": 1.0
     }
-  }
+  },
+  "FilterLimit": 16,
+  "FilterPriorityThreshold": "VeryLow",
+  "ResourcePacks": []
 }

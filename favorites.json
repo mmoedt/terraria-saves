@@ -148,18 +148,21 @@
     "zz18xaria.wld": true,
     "zz21aria.wld": true,
     "zz18bare1.wld": false,
-    "Collectaria.wld": true,
+    "Collectaria.wld": false,
     "MasterCollectaria.wld": true,
-    "Cloudy_Underwood_of_Stonks.wld": true,
+    "Cloudy_Underwood_of_Stonks.wld": false,
     "Jayaria.wld": true,
     "Wanderaria.wld": true,
-    "_0fdaria.wld": true,
+    "_0fdaria.wld": false,
     "hcExp02aria.wld": false,
     "_0duke2aria.wld": false,
     "duke3aria.wld": true,
     "20230908aria.wld": false,
     "20230911aria.wld": false,
-    "SuperMasterAria.wld": false
+    "SuperMasterAria.wld": false,
+    "suprDrunkAria.wld": true,
+    "_20230918aria.wld": true,
+    "newMasterAria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -202,6 +205,8 @@
     "duke3.plr": true,
     "20230908.plr": false,
     "20230911.plr": false,
-    "superMaster.plr": true
+    "superMaster.plr": true,
+    "_20230918.plr": true,
+    "newMaster.plr": true
   }
 }
