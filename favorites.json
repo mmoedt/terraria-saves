@@ -161,8 +161,12 @@
     "20230911aria.wld": false,
     "SuperMasterAria.wld": false,
     "suprDrunkAria.wld": true,
-    "_20230918aria.wld": true,
-    "newMasterAria.wld": true
+    "_20230918aria.wld": false,
+    "newMasterAria.wld": true,
+    "quickJaria.wld": true,
+    "_0fcAria.wld": false,
+    "_0fbAria.wld": true,
+    "_0faAria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -197,16 +201,20 @@
     "_0fe.plr": false,
     "ZeeCollector.plr": true,
     "ZeeCollector2.plr": true,
-    "Jay.plr": true,
+    "Jay.plr": false,
     "Wanderer.plr": true,
-    "_0fd.plr": true,
+    "_0fd.plr": false,
     "hcExp02.plr": false,
     "_0duke2.plr": false,
     "duke3.plr": true,
     "20230908.plr": false,
     "20230911.plr": false,
     "superMaster.plr": true,
-    "_20230918.plr": true,
-    "newMaster.plr": true
+    "_20230918.plr": false,
+    "newMaster.plr": true,
+    "quikJ.plr": true,
+    "_0fc.plr": false,
+    "_0fb.plr": true,
+    "_0fa.plr": true
   }
 }
