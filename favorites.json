@@ -165,8 +165,14 @@
     "newMasterAria.wld": true,
     "quickJaria.wld": true,
     "_0fcAria.wld": false,
-    "_0fbAria.wld": true,
-    "_0faAria.wld": true
+    "_0fbAria.wld": false,
+    "_0faAria.wld": false,
+    "_0f9aria.wld": true,
+    "_0f8quickaria.wld": true,
+    "_0f7quikaria.wld": true,
+    "_0f7exparia.wld": true,
+    "_0f6aria.wld": true,
+    "_0f5aria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -214,7 +220,12 @@
     "newMaster.plr": true,
     "quikJ.plr": true,
     "_0fc.plr": false,
-    "_0fb.plr": true,
-    "_0fa.plr": true
+    "_0fb.plr": false,
+    "_0fa.plr": false,
+    "_0f9.plr": false,
+    "_0f8quik.plr": true,
+    "_0f7quik.plr": true,
+    "_0f6.plr": true,
+    "_0f5.plr": true
   }
 }
