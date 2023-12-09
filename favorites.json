@@ -173,7 +173,7 @@
     "_0f7exparia.wld": true,
     "_0f6aria.wld": true,
     "_0f5aria.wld": true,
-    "_04duperaria.wld": true
+    "_04duperaria.wld": false
   },
   "Player": {
     "Melvin.plr": false,
@@ -228,6 +228,6 @@
     "_0f7quik.plr": true,
     "_0f6.plr": true,
     "_0f5.plr": true,
-    "_0f4duper.plr": true
+    "_0f4duper.plr": false
   }
 }
