@@ -183,7 +183,8 @@
     "_0f0aria.wld": true,
     "_0efaria.wld": true,
     "_0eeXXaria.wld": true,
-    "_0edaria.wld": true
+    "_0edaria.wld": true,
+    "Moedt2024.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -246,6 +247,7 @@
     "_0f0.plr": true,
     "_0ef.plr": true,
     "_0ee.plr": true,
-    "_0ed.plr": true
+    "_0ed.plr": true,
+    "Mike2024.plr": true
   }
 }
