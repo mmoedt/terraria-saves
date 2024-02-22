@@ -184,7 +184,8 @@
     "_0efaria.wld": true,
     "_0eeXXaria.wld": true,
     "_0edaria.wld": true,
-    "Moedt2024.wld": true
+    "Moedt2024.wld": true,
+    "_0ec-minaria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -248,6 +249,7 @@
     "_0ef.plr": true,
     "_0ee.plr": true,
     "_0ed.plr": true,
-    "Mike2024.plr": true
+    "Mike2024.plr": true,
+    "_0ec-min.plr": true
   }
 }
