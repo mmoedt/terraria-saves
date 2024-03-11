@@ -188,7 +188,8 @@
     "_0ec-minaria.wld": true,
     "_0ebaria.wld": true,
     "_0eaaria.wld": true,
-    "_0e9aria.wld": true
+    "_0e9aria.wld": true,
+    "_0e8aria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -256,6 +257,7 @@
     "_0ec-min.plr": true,
     "_0eb.plr": true,
     "_0ea.plr": true,
-    "_0e9.plr": true
+    "_0e9.plr": true,
+    "_0e8.plr": true
   }
 }
