@@ -190,7 +190,8 @@
     "_0eaaria.wld": true,
     "_0e9aria.wld": true,
     "_0e8aria.wld": true,
-    "_0e7aria.wld": true
+    "_0e7aria.wld": true,
+    "_0e6aria.wld": true
   },
   "Player": {
     "Melvin.plr": false,
@@ -260,6 +261,7 @@
     "_0ea.plr": true,
     "_0e9.plr": true,
     "_0e8.plr": true,
-    "_0e7.plr": true
+    "_0e7.plr": true,
+    "_0e6.plr": true
   }
 }
