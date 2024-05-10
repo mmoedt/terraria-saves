@@ -1,0 +1,7 @@
+#!/bin/bash
+
+git restore Players Worlds
+echo Restarting terraria...
+sleep 0.5
+terr
+
